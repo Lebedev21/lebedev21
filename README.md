@@ -13,4 +13,12 @@ Coding Bucketlist:
 
 ❌ - Solve world hunger and stop climate warming
 
+Where to contact me:
+
+⚠ Note: Please do not send me spam messages and/or emails. I don't have time to read them.
+
+* ✉ Send me E-Mail at: heikkinieminen89@mail.com
+* 💬 Send me a message on Discord at: CookieMonster#7774
+
+
 
