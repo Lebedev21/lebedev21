@@ -7,8 +7,8 @@ And no: sadly I don't live in Chernobyl. I'm guessing they don't have a good 4G 
 
 Coding Bucketlist:
 
-✔ - Host a BBS & IRC
-✔ - Host a nice website
-❌ - Solve world hunger and stop climate warming
+-✔ - Host a BBS & IRC
+-✔ - Host a nice website
+-❌ - Solve world hunger and stop climate warming
 
 
