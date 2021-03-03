@@ -1,9 +1,13 @@
 ## Hi there, I am Lebedev! ✌
 
+***
+
 ### About Me
 
 I am a guy from Finland, I do coding and hacking stuff. My nickname "Lebedev" comes from the S.T.A.L.K.E.R Clear Sky game.
 And no: sadly I don't live in Chernobyl. I'm guessing they don't have a good 4G network there. 😂
+
+***
 
 Coding Bucketlist:
 
@@ -12,6 +16,8 @@ Coding Bucketlist:
 ✔ - Host a nice website
 
 ❌ - Solve world hunger and stop climate warming
+
+***
 
 Where to contact me:
 
